@@ -38,6 +38,14 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
 <a name="skills"></a>
 <hr>
 
+## Selected Accomplishments
+
+•	1st place winner in the 2023 annual University of Denver case competition, selected by university faculty and Deloitte consultants
+•	Recognized as a “top student in Saudi Arabia” from 3300 + applicants for exceptional academic achievement and leadership skills
+•	Mentored 120 10th-grade students to secure admissions to Misk Distinct (<3% acceptance rate) via info sessions & online channels 
+•	Led business analytics group to solve unsolvable Excel Solver problem, maximizing profit by 111% and reducing budget by 17%
+
+
 ## Skills & Certifications
 
 <table style="width: 100%; table-layout: fixed;">
