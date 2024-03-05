@@ -12,7 +12,7 @@
 
 ## Education
 ### Univeristy of Denver, Daniels College of Business
-Bachelor of Science Business Administration – Business Information and Analytics, June 2022
+Bachelor of Science Business Administration – Business Analytics, June 2024
 
 <ul>
   <li><b>Margery Reed Service Award</b>: This award recognizes outstanding commitment to Daniels Undergraduate Programs.</li>
