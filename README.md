@@ -30,7 +30,7 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
 
 ## Past Project Examples
 
-- [Boulder Tea Brewers Presentation](./Boulder%20Tea%20Brewers.pptx) - A PowerPoint presentation detailing a project on brewing tea in Boulder.
+- [Boulder Tea Brewers Presentation](./Boulder%20Tea%20Brewers.pdf) - A PowerPoint presentation detailing a project on brewing tea in Boulder.
 - [How to Market The Next Big Hit Game](./How%20to%20Market%20The%20Next%20Big%20Hit%20Game.pdf) - A PDF document outlining strategies for marketing new video games.
 - [MidProject Analysis](./MidProject%20(1).ipynb) - A Jupyter notebook containing intermediate analysis for a data science project.
 - [University of Utah Enrollment Analysis](./University%20of%20Utah%20Enrollment.pdf) - A PDF report on enrollment trends at the University of Utah.
