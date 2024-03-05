@@ -56,10 +56,9 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
         <li>Excel</li>
         <li>Microsoft Visual Studio</li>
         <li>Tableau</li>
-       <li>PowerBI</li>
+        <li>PowerBI</li>
         <li>Adobe Illustrator</li>
         <li>Adobe Photoshop</li>
-
       </ul>
     </td>
     <td>
