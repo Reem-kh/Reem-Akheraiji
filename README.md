@@ -57,8 +57,7 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
         <li>Microsoft Visual Studio</li>
         <li>Tableau</li>
         <li>PowerBI</li>
-        <li>Adobe Illustrator</li>
-        <li>Adobe Photoshop</li>
+        <li>Adobe Illustrator & Adobe Photoshop</li>
       </ul>
     </td>
     <td>
