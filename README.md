@@ -14,7 +14,7 @@
 ### University of Denver, Daniels College of Business - Expected Graduation: June 2024
 Bachelor of Science Business Administration – Business Analytics
 
-Bachelor of Science Business Administration – Marketing (Minor0)
+Bachelor of Science Business Administration – Marketing (Minor)
 
 ### Harvard University, Secondary School Program
 Earned 8 college credits in Precalculus and Public Speaking, June - August 2018
