@@ -1,10 +1,14 @@
 
 
-## Hello World! This is a little about me and a sample of my work.
-[<img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35"/>](#education)
-[<img src="https://user-images.githubusercontent.com/91146906/152290724-72946642-3e58-4ba3-b5b8-b687628526b1.svg" height="35"/>](#DanielsDistinction)
-[<img src="https://user-images.githubusercontent.com/91146906/162140921-207cd392-cfe5-40e6-a84e-0a16e19e405a.svg" height="35"/>](#profExp)
-[<img src="https://user-images.githubusercontent.com/91146906/162140965-cf707805-9abd-43f7-8314-4f96794c44dc.svg" height="35"/>](#skills)
+## Hello World! Welcome to my world.
+[<img src="https://user-images.githubusercontent.com/yourimagepath/about_icon.svg" height="35"/>](#about)
+[<img src="https://user-images.githubusercontent.com/yourimagepath/education_icon.svg" height="35"/>](#education)
+[<img src="https://user-images.githubusercontent.com/yourimagepath/DanielsDistinction_icon.svg" height="35"/>](#DanielsDistinction)
+[<img src="https://user-images.githubusercontent.com/yourimagepath/profExp_icon.svg" height="35"/>](#profExp)
+[<img src="https://user-images.githubusercontent.com/yourimagepath/skills_icon.svg" height="35"/>](#skills)
+[<img src="https://user-images.githubusercontent.com/yourimagepath/projects_icon.svg" height="35"/>](#BusinessAnalyticsProjects)
+[<img src="https://user-images.githubusercontent.com/yourimagepath/consulting_projects_icon.svg" height="35"/>](#ConsultingProjects)
+[<img src="https://user-images.githubusercontent.com/yourimagepath/accomplishments_icon.svg" height="35"/>](#SelectedAccomplishments)
 
 <a name="education"></a>
 <hr>
@@ -38,7 +42,7 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
 <a name="skills"></a>
 <hr>
 
-## Past Business Analytics Examples
+## Business Analytics Projects
 
 - [University of Utah Enrollment Analysis](./University%20of%20Utah%20Enrollment.pdf) - Enrollment trends at the University of Utah, analyzed using PowerBI.
 - [MidProject Analysis](./MidProject%20(1).ipynb) - A programmed college GPA calculator and personalized course information histort provider using Python.
