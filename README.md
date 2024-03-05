@@ -32,6 +32,7 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
 
 <a name="profExp"></a>
 <hr>
+
 ## Work Experience
 <i>See my <a href="/2024.03_Reem_Alkheraiji_Resume.pdf" target="_blank">resume</a> and <a href="https://www.linkedin.com/in/reemalkheraiji" target="_blank">LinkedIn</a></i>
 
