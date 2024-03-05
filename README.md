@@ -89,8 +89,8 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
     </td>
     <td>
       <ul>
-        <li>Arabic</li>
-        <li>English</li>
+        <li>Arabic (Native)</li>
+        <li>English (Fluent)</li>
       </ul>
     </td>
   </tr>
