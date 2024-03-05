@@ -33,9 +33,6 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
 <a name="profExp"></a>
 <hr>
 
-<a name="profExp"></a>
-<hr>
-
 ## Work Experience
 <i>See my <a href="/2024.03_Reem_Alkheraiji_Resume.pdf" target="_blank">resume</a> and <a href="https://www.linkedin.com/in/reemalkheraiji" target="_blank">LinkedIn</a></i>
 
@@ -65,8 +62,11 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
       </ul>
     </td>
   </tr>
-<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35" alt="Back to top"/>
-         
+
+<a href="#top">
+    <img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35" alt="Back to top"/>
+  </a>
+  
 <a name="skills"></a>
 <hr>
 ## Skills & Certifications
