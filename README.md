@@ -1,7 +1,7 @@
 <a name="top"></a>
 <hr>
 
-## Hello World! This is a little about me and a sampling of my work.
+## Hello World! This is a little about me and a sample of my work.
 [<img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35"/>](#education)
 [<img src="https://user-images.githubusercontent.com/91146906/152290724-72946642-3e58-4ba3-b5b8-b687628526b1.svg" height="35"/>](#DanielsDistinction)
 [<img src="https://user-images.githubusercontent.com/91146906/162140921-207cd392-cfe5-40e6-a84e-0a16e19e405a.svg" height="35"/>](#profExp)
@@ -63,11 +63,15 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
     </td>
     <td>
      <ul>
-        <li><a href = "https://www.credly.com/badges/e654fce3-19be-40b3-9347-228eea2ce3a1/public_url">Microsoft Expert Access 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/23f6c6da-fbcd-4a01-bedc-2f9ca4e5a540/public_url">Microsoft Expert Excel 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/ac1cb133-b395-4a61-a71c-8fd6ea908771/public_url">Microsoft Expert Word 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/e1f089c5-e148-4a30-9dc3-b6551e873dd8/public_url">Microsoft Associate PowerPoint 2019</a></li>
-       <li><a href = "https://www.credly.com/badges/7204aaa1-f592-4582-bc1c-7444f5d49cba/public_url">Microsoft Associate Outlook 2019</a></li>
+        <li><a href = "[https://www.credly.com/badges/e654fce3-19be-40b3-9347-228eea2ce3a1/public_url](https://www.virtualbadge.io/certificate-validator?credential=d97a517f-b550-4625-          8796-ea6d05151adc)">Foundational Consulting Skills</a></li>
+        <li><a href = "[https://www.credly.com/badges/23f6c6da-fbcd-4a01-bedc-2f9ca4e5a540/public_url](https://www.credly.com/badges/64a22958-d6fb-4cbd-bfc8-8f6150a98ab2?        
+         source=linked_in_profile)">Microsoft Office Specialist: Associate </a></li>
+        <li><a href = "[https://www.credly.com/badges/ac1cb133-b395-4a61-a71c-8fd6ea908771/public_url](https://www.credly.com/badges/43a5a26c-1dc7-41fe-85e9-2bb36c3cd1a4? 
+        source=linked_in_profile)">Microsoft Office Specialist: Word Associate</a></li>
+        <li><a href = "[https://www.credly.com/badges/e1f089c5-e148-4a30-9dc3-b6551e873dd8/public_url](https://www.credly.com/badges/ec4f9475-0c63-410a-b85d-cd884a6ca09b? 
+        source=linked_in_profile)">Microsoft Office Specialist: PowerPoint Associate</a></li>
+       <li><a href = "[https://www.credly.com/badges/7204aaa1-f592-4582-bc1c-7444f5d49cba/public_url](https://www.credly.com/badges/cf54c46a-6673-43a7-af8e-d29a4ba40ffc?      
+        source=linked_in_profile)">Microsoft Office Specialist: Excel Associate</a></li>
       </ul>
     </td>
   </tr>
