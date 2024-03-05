@@ -72,7 +72,7 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
   </tr>
   <tr>
     <th>CliftonStrengths (Fall 2018)</th>
-    <th>Other Skills</th>
+    <th>Languages</th>
  </tr>
  <tr>
    <td>
@@ -86,9 +86,8 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
    </td>
    <td>
      <ul>
-        <li>Teaching</li>
-        <li>Facilitating</li>
-       <li>Problem Solving</li>
+        <li>Arabic</li>
+        <li>English</li>
      </ul>
    </td>
  </tr>
