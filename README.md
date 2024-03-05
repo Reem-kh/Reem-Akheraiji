@@ -21,7 +21,10 @@ Earned 8 college credits in Precalculus and Public Speaking, June - August 2018
 
 <a name="DanielsDistinction"></a>
 #### Daniels Distinction Portfolio
-In pursuing Distinction in Business Analytics from the University of Denver, I compiled a portfolio highlighting my experiences and work throughout my undergraduate years. 
+In pursuing a Distinction in Business Analytics from the University of Denver, I am writing a thesis under esteemed faculty in the field utilizing the analytical skills I gained from my degree. Stay tuned!
+
+![Coming Soon](https://marketplace.canva.com/EAFijA-Es8I/1/0/1600w/canva-beige-minimalist-stay-tuned-coming-soon-instagram-post-iv_vQnhdRkY.jpg "Coming Soon")
+
 
 ## Jobs and Internships
 <i>See my <a href="/2024.03_Reem_Alkheraiji_Resume.pdf" target="_blank">resume</a> and <a href="https://www.linkedin.com/in/reemalkheraiji" target="_blank">LinkedIn</a></i>
