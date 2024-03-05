@@ -1,4 +1,4 @@
-<a name="top"></a>
+![image](https://github.com/Reem-kh/Reem-Akheraiji/assets/94408871/9aa543a1-8d71-4ec9-834c-717341dc9389)<a name="top"></a>
 <hr>
 
 ## Hello World! This is a little about me and a sample of my work.
@@ -12,6 +12,9 @@
 
 ## Contact Information
 Email: Reem.Alkheraiji@gmail.com
+
+## About
+A current Business Analytics and Marketing Senior at the University of Denver, set to graduate in June 2024. Experienced in both Marketing and Consulting, with accomplished projects from increasing Cardinal Health's supply chain fulfillment, growing non-profit donations and online presence for the Emily Grace Foundation, and broadening the reach of Cotopaxi's marketing campaign towards college students. Is recognized as one of the youngest top 50 Saudis to represent KSA in global engagements due to crafting a comprehensive tourism strategy aligning with Vision 2030.
 
 ## Education
 ### University of Denver, Daniels College of Business - Expected Graduation: June 2024
@@ -42,6 +45,13 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
 
 <a name="skills"></a>
 <hr>
+
+### Consulting Projects
+
+- Cotopaxi:
+- 
+- Cardinal Health
+- Emily Grace Foundation
 
 ## Selected Accomplishments
  </td>
