@@ -32,7 +32,7 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
 
 - [University of Utah Enrollment Analysis](./University%20of%20Utah%20Enrollment.pdf) - Enrollment trends at the University of Utah, analyzed using PowerBI.
 - [MidProject Analysis](./MidProject%20(1).ipynb) - A programmed college GPA calculator and personalized course information for students using Python.
-- [Boulder Tea Brewers Presentation](./Boulder%20Tea%20Brewers%20.pdf) Maximizing profit, using all of the inventory, reducing budget using linear programming in Excel Solver. 
+- [Boulder Tea Brewers Presentation](./Boulder%20Tea%20Brewers%20.pdf) Maximizing profit, using all of the inventory, reducing budget via linear programming in Excel Solver. 
 - [How to Market The Next Big Hit Game](./How%20to%20Market%20The%20Next%20Big%20Hit%20Game.pdf) - University of Denver wide winning Business Analytics infographic.
 
 ## Work Experience
