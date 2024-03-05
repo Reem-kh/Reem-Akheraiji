@@ -42,8 +42,8 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
 
 <table>
   <tr>
-    <th>Tools and Technical Skills</th>
-    <th>Certifications</th>
+    <th style="width: 50%;">Tools and Technical Skills</th>
+    <th style="width: 50%;">Certifications</th>
   </tr>
   <tr>
     <td>
@@ -60,21 +60,20 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
         <li>Adobe Illustrator</li>
         <li>Adobe Photoshop</li>
       </ul>
-</td>
-<td>
- <ul>
-    <li><a href="https://www.virtualbadge.io/certificate-validator?credential=d97a517f-b550-4625-8796-ea6d05151adc">Foundational Consulting Skills</a></li>
-    <li><a href="https://www.credly.com/badges/cf54c46a-6673-43a7-af8e-d29a4ba40ffc?source=linked_in_profile">Microsoft Office Specialist: Excel Associate</a></li>
-    <li><a href="https://www.credly.com/badges/ec4f9475-0c63-410a-b85d-cd884a6ca09b?source=linked_in_profile">Microsoft Office Specialist: PowerPoint Associate</a></li>
-    <li><a href="https://www.credly.com/badges/64a22958-d6fb-4cbd-bfc8-8f6150a98ab2?source=linked_in_profile">Microsoft Office Specialist: Associate</a></li>
-    <li><a href="https://www.credly.com/badges/43a5a26c-1dc7-41fe-85e9-2bb36c3cd1a4?source=linked_in_profile">Microsoft Office Specialist: Word Associate</a></li>
-  </ul>
-</td>
-
+    </td>
+    <td>
+     <ul>
+        <li><a href="https://www.virtualbadge.io/certificate-validator?credential=d97a517f-b550-4625-8796-ea6d05151adc">Foundational Consulting Skills</a></li>
+        <li><a href="https://www.credly.com/badges/cf54c46a-6673-43a7-af8e-d29a4ba40ffc?source=linked_in_profile">Microsoft Office Specialist: Excel Associate</a></li>
+        <li><a href="https://www.credly.com/badges/ec4f9475-0c63-410a-b85d-cd884a6ca09b?source=linked_in_profile">Microsoft Office Specialist: PowerPoint Associate</a></li>
+        <li><a href="https://www.credly.com/badges/64a22958-d6fb-4cbd-bfc8-8f6150a98ab2?source=linked_in_profile">Microsoft Office Specialist: Associate</a></li>
+        <li><a href="https://www.credly.com/badges/43a5a26c-1dc7-41fe-85e9-2bb36c3cd1a4?source=linked_in_profile">Microsoft Office Specialist: Word Associate</a></li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <th>Soft Skills</th>
-    <th>Languages</th>
+    <th style="width: 50%;">Soft Skills</th>
+    <th style="width: 50%;">Languages</th>
  </tr>
  <tr>
    <td>
