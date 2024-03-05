@@ -30,13 +30,6 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
 
 <img src="https://marketplace.canva.com/EAFijA-Es8I/1/0/1600w/canva-beige-minimalist-stay-tuned-coming-soon-instagram-post-iv_vQnhdRkY.jpg" width="600" alt="Coming Soon">
 
-## Past Business Analytics Examples
-
-- [University of Utah Enrollment Analysis](./University%20of%20Utah%20Enrollment.pdf) - Enrollment trends at the University of Utah, analyzed using PowerBI.
-- [MidProject Analysis](./MidProject%20(1).ipynb) - A programmed college GPA calculator and personalized course information histort provider using Python.
-- [Boulder Tea Brewers Presentation](./Boulder%20Tea%20Brewers%20.pdf) Maximizing profit, using all of the inventory, reducing budget via linear programming in Excel Solver. 
-- [How to Market The Next Big Hit Game](./How%20to%20Market%20The%20Next%20Big%20Hit%20Game.pdf) - University of Denver wide winning Business Analytics infographic.
-
 ## Work Experience
 <i>See my <a href="/2024.03_Reem_Alkheraiji_Resume.pdf" target="_blank">resume</a> and <a href="https://www.linkedin.com/in/reemalkheraiji" target="_blank">LinkedIn</a></i>
 
@@ -44,6 +37,13 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
 
 <a name="skills"></a>
 <hr>
+
+## Past Business Analytics Examples
+
+- [University of Utah Enrollment Analysis](./University%20of%20Utah%20Enrollment.pdf) - Enrollment trends at the University of Utah, analyzed using PowerBI.
+- [MidProject Analysis](./MidProject%20(1).ipynb) - A programmed college GPA calculator and personalized course information histort provider using Python.
+- [Boulder Tea Brewers Presentation](./Boulder%20Tea%20Brewers%20.pdf) Maximizing profit, using all of the inventory, reducing budget via linear programming in Excel Solver. 
+- [How to Market The Next Big Hit Game](./How%20to%20Market%20The%20Next%20Big%20Hit%20Game.pdf) - University of Denver wide winning Business Analytics infographic.
 
 ### Consulting Projects
 
