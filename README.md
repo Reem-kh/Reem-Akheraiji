@@ -28,7 +28,17 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
 
 <img src="https://marketplace.canva.com/EAFijA-Es8I/1/0/1600w/canva-beige-minimalist-stay-tuned-coming-soon-instagram-post-iv_vQnhdRkY.jpg" width="600" alt="Coming Soon">
 
-
+## Past Project Examples
+ </td>
+    <td>
+      <ul>
+        <li> 1st place winner in the 2023 annual University of Denver case competition, selected by university faculty and Deloitte consultants</li>
+        <li> Recognized as a “top student in Saudi Arabia” from 3300 + applicants for exceptional academic achievement and leadership skills</li>
+        <li> Mentored 120 10th-grade students to secure admissions to Misk Distinct (<3% acceptance rate) via info sessions & online channels</li>
+        <li>Led business analytics group to solve unsolvable Excel Solver problem, maximizing profit by 111% and reducing the budget by 17%</li>
+      </ul>
+    </td>
+  </tr>
 
 ## Work Experience
 <i>See my <a href="/2024.03_Reem_Alkheraiji_Resume.pdf" target="_blank">resume</a> and <a href="https://www.linkedin.com/in/reemalkheraiji" target="_blank">LinkedIn</a></i>
