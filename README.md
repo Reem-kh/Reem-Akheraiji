@@ -29,16 +29,11 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
 <img src="https://marketplace.canva.com/EAFijA-Es8I/1/0/1600w/canva-beige-minimalist-stay-tuned-coming-soon-instagram-post-iv_vQnhdRkY.jpg" width="600" alt="Coming Soon">
 
 ## Past Project Examples
- </td>
-    <td>
-      <ul>
-        <li> 1st place winner in the 2023 annual University of Denver case competition, selected by university faculty and Deloitte consultants</li>
-        <li> Recognized as a “top student in Saudi Arabia” from 3300 + applicants for exceptional academic achievement and leadership skills</li>
-        <li> Mentored 120 10th-grade students to secure admissions to Misk Distinct (<3% acceptance rate) via info sessions & online channels</li>
-        <li>Led business analytics group to solve unsolvable Excel Solver problem, maximizing profit by 111% and reducing the budget by 17%</li>
-      </ul>
-    </td>
-  </tr>
+
+- [Boulder Tea Brewers Presentation](./Boulder%20Tea%20Brewers.pptx) - A PowerPoint presentation detailing a project on brewing tea in Boulder.
+- [How to Market The Next Big Hit Game](./How%20to%20Market%20The%20Next%20Big%20Hit%20Game.pdf) - A PDF document outlining strategies for marketing new video games.
+- [MidProject Analysis](./MidProject%20(1).ipynb) - A Jupyter notebook containing intermediate analysis for a data science project.
+- [University of Utah Enrollment Analysis](./University%20of%20Utah%20Enrollment.pdf) - A PDF report on enrollment trends at the University of Utah.
 
 ## Work Experience
 <i>See my <a href="/2024.03_Reem_Alkheraiji_Resume.pdf" target="_blank">resume</a> and <a href="https://www.linkedin.com/in/reemalkheraiji" target="_blank">LinkedIn</a></i>
