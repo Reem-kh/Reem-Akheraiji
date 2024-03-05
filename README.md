@@ -30,7 +30,7 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
 
 <img src="https://marketplace.canva.com/EAFijA-Es8I/1/0/1600w/canva-beige-minimalist-stay-tuned-coming-soon-instagram-post-iv_vQnhdRkY.jpg" width="600" alt="Coming Soon">
 
-## Past Project Examples
+## Past Business Analytics Examples
 
 - [University of Utah Enrollment Analysis](./University%20of%20Utah%20Enrollment.pdf) - Enrollment trends at the University of Utah, analyzed using PowerBI.
 - [MidProject Analysis](./MidProject%20(1).ipynb) - A programmed college GPA calculator and personalized course information histort provider using Python.
