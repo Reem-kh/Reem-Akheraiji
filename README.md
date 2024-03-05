@@ -40,14 +40,14 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
 
 ## Skills & Certifications
 
-<table>
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <th style="width: 50%;">Tools and Technical Skills</th>
-    <th style="width: 50%;">Certifications</th>
+    <th>Tools and Technical Skills</th>
+    <th>Certifications</th>
   </tr>
   <tr>
     <td>
-     <ul>
+      <ul>
         <li>SQL</li>
         <li>Python</li>
         <li>Alteryx</li>
@@ -62,7 +62,7 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
       </ul>
     </td>
     <td>
-     <ul>
+      <ul>
         <li><a href="https://www.virtualbadge.io/certificate-validator?credential=d97a517f-b550-4625-8796-ea6d05151adc">Foundational Consulting Skills</a></li>
         <li><a href="https://www.credly.com/badges/cf54c46a-6673-43a7-af8e-d29a4ba40ffc?source=linked_in_profile">Microsoft Office Specialist: Excel Associate</a></li>
         <li><a href="https://www.credly.com/badges/ec4f9475-0c63-410a-b85d-cd884a6ca09b?source=linked_in_profile">Microsoft Office Specialist: PowerPoint Associate</a></li>
@@ -72,12 +72,12 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
     </td>
   </tr>
   <tr>
-    <th style="width: 50%;">Soft Skills</th>
-    <th style="width: 50%;">Languages</th>
- </tr>
- <tr>
-   <td>
-     <ul>
+    <th>Soft Skills</th>
+    <th>Languages</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
         <li>Leadership</li>
         <li>Problem Solving</li>
         <li>Critical Thinking</li>
@@ -86,15 +86,16 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
         <li>Persuasion</li>
         <li>Public Speaking</li>
         <li>Professional and creative writing</li>
-     </ul>
-   </td>
-   <td>
-     <ul>
+      </ul>
+    </td>
+    <td>
+      <ul>
         <li>Arabic</li>
         <li>English</li>
-     </ul>
-   </td>
- </tr>
+      </ul>
+    </td>
+  </tr>
 </table>
+
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
