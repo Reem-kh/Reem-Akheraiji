@@ -49,15 +49,17 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
     <td>
      <ul>
         <li>SQL</li>
-        <li>Visual Basic</li>
         <li>Python</li>
+        <li>Alteryx</li>
         <li>R</li>
+        <li>HTML</li>
         <li>Excel</li>
-        <li>Microsoft SQL Server Management Studio</li>
         <li>Microsoft Visual Studio</li>
         <li>Tableau</li>
        <li>PowerBI</li>
-        <li>Trello</li>
+        <li>Adobe Illustrator</li>
+        <li>Adobe Photoshop</li>
+
       </ul>
     </td>
     <td>
