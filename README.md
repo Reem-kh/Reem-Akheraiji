@@ -23,7 +23,8 @@ Earned 8 college credits in Precalculus and Public Speaking, June - August 2018
 #### Daniels Distinction Portfolio
 In pursuing a Distinction in Business Analytics from the University of Denver, I am writing a thesis under esteemed faculty in the field utilizing the analytical skills I gained from my degree. Stay tuned!
 
-![Coming Soon](https://marketplace.canva.com/EAFijA-Es8I/1/0/1600w/canva-beige-minimalist-stay-tuned-coming-soon-instagram-post-iv_vQnhdRkY.jpg "Coming Soon")
+<img src="https://marketplace.canva.com/EAFijA-Es8I/1/0/1600w/canva-beige-minimalist-stay-tuned-coming-soon-instagram-post-iv_vQnhdRkY.jpg" width="800" alt="Coming Soon">
+
 
 
 ## Jobs and Internships
