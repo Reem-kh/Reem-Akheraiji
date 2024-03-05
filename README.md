@@ -10,6 +10,9 @@
 <a name="education"></a>
 <hr>
 
+## Contact Information
+Email: Reem.Alkheraiji@gmail.com
+
 ## Education
 ### University of Denver, Daniels College of Business - Expected Graduation: June 2024
 Bachelor of Science Business Administration – Business Analytics
