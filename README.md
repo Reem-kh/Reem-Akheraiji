@@ -36,9 +36,6 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
 ## Work Experience
 <i>See my <a href="/2024.03_Reem_Alkheraiji_Resume.pdf" target="_blank">resume</a> and <a href="https://www.linkedin.com/in/reemalkheraiji" target="_blank">LinkedIn</a></i>
 
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
-
-
 ## Business Analytics Projects
 
 - [University of Utah Enrollment Analysis](./University%20of%20Utah%20Enrollment.pdf) - Enrollment trends at the University of Utah, analyzed using PowerBI.
@@ -65,6 +62,7 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
       </ul>
     </td>
   </tr>
+[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
 <a name="skills"></a>
 <hr>
