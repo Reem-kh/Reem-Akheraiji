@@ -32,7 +32,6 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
 
 <a name="profExp"></a>
 <hr>
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
 <a name="profExp"></a>
 <hr>
