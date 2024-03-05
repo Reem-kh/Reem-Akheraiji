@@ -71,17 +71,21 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
     </td>
   </tr>
   <tr>
-    <th>CliftonStrengths (Fall 2018)</th>
+    <th>Soft Skills</th>
     <th>Languages</th>
  </tr>
  <tr>
    <td>
      <ol>
-        <li>Responsibility</li>
-        <li>Learner</li>
-        <li>Discipline</li>
-        <li>Developer</li>
-        <li>Achiever</li>
+        <li>Leadership</li>
+        <li>Problem Solving</li>
+        <li>Critical Thinking</li>
+        <li>Creativity</li>
+        <li>Emotional Intellegince</li>
+        <li>Presuasion</li>
+        <li>Public Speaking</li>
+        <li>Presuasion</li>
+        <li>Professional and creative writing</li>
      </ol>
    </td>
    <td>
