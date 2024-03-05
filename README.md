@@ -23,7 +23,7 @@ Bachelor of Science Business Administration – Marketing (Minor)
 Earned 8 college credits in Precalculus and Public Speaking, June - August 2018
 
 <a name="DanielsDistinction"></a>
-## Daniels Distinction Portfolio
+## Daniels Distinction Thesis
 In pursuing a Distinction in Business Analytics from the University of Denver, I am writing a thesis under esteemed faculty in the field utilizing the analytical skills I gained from my degree. Stay tuned!
 
 <img src="https://marketplace.canva.com/EAFijA-Es8I/1/0/1600w/canva-beige-minimalist-stay-tuned-coming-soon-instagram-post-iv_vQnhdRkY.jpg" width="600" alt="Coming Soon">
