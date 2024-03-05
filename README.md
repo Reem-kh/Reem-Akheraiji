@@ -77,17 +77,16 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
  </tr>
  <tr>
    <td>
-     <ol>
+     <ul>
         <li>Leadership</li>
         <li>Problem Solving</li>
         <li>Critical Thinking</li>
         <li>Creativity</li>
-        <li>Emotional Intellegince</li>
-        <li>Presuasion</li>
+        <li>Emotional Intelligence</li>
+        <li>Persuasion</li>
         <li>Public Speaking</li>
-        <li>Presuasion</li>
         <li>Professional and creative writing</li>
-     </ol>
+     </ul>
    </td>
    <td>
      <ul>
