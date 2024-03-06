@@ -28,7 +28,7 @@ Earned 8 college credits in Precalculus and Public Speaking, June - August 2018
 ## Daniels Distinction Thesis
 In pursuing a Distinction in Business Analytics from the University of Denver, I am writing a thesis under esteemed faculty in the field utilizing the analytical skills I gained from my degree. Stay tuned!
 
-<img src="./Distinction%20Coming%20Soon.png" width="300" alt="Distinction Thesis Coming Soon">
+<img src="./Distinction%20Coming%20Soon.png" width="500" alt="Distinction Thesis Coming Soon">
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
