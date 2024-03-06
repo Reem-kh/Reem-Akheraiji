@@ -57,10 +57,10 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
  </td>
     <td>
       <ul>
-        <li> 1st place winner in the 2023 annual University of Denver case competition, selected by university faculty and Deloitte consultants</li>
-        <li> Recognized as a “top student in Saudi Arabia” from 3300 + applicants for exceptional academic achievement and leadership skills</li>
-        <li> Mentored 120 10th-grade students to secure admissions to Misk Distinct (<3% acceptance rate) via info sessions & online channels</li>
-        <li>Led business analytics group to solve unsolvable Excel Solver problem, maximizing profit by 111% and reducing the budget by 17%</li>
+        <li> 1st place winner in the 2023 annual University of Denver case competition, selected by university faculty and Deloitte consultants.</li>
+        <li> Recognized as a “top student in Saudi Arabia” from 3300 + applicants for exceptional academic achievement and leadership skills.</li>
+        <li> Mentored 120 10th-grade students to secure admissions to Misk Distinct (<3% acceptance rate) via info sessions & online channels.</li>
+        <li>Led business analytics group to solve unsolvable Excel Solver problem, maximizing profit by 111% and reducing the budget by 17%.</li>
       </ul>
     </td>
   </tr>
