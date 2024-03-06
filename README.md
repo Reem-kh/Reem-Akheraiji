@@ -47,7 +47,7 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
 
 ## Consulting Projects
 
-- **Cotopaxi:** Leading a team, I devised a strategy to boost Cotopaxi's market share among college students, positioning it against competitors for DU's inaugural Questival. Our approach combined personalized marketing and product design modifications targeted at the DU student demographic, aiming to augment Cotopaxi's visibility on campus and beyond.
+- **Cotopaxi:** Leading a team, I devised a strategy to boost Cotopaxi's market share among college students, positioning it against competitors for DU's inaugural Questival. Our approach combined personalized marketing and product design modifications targeted at the DU student demographic, aiming to augment Cotopaxi's visibility on the University of Denver campus and beyond.
 
 - **Cardinal Health:** I spearheaded a team in tackling a client case in the US health sector. We addressed the challenge of Centura hospitals receiving only 94% of their ordered medical tools from Cardinal Health. By analyzing their dataset, asking the client critical questions, and identifying the root cause of the problem within Cardinal Health's supply chain process, we developed a strategy to improve and control the supply chain, increasing fulfillment to > 98%.
 
