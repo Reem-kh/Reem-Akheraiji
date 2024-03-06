@@ -71,6 +71,7 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
   
 <a name="skills"></a>
 <hr>
+
 ## Skills & Certifications
 
 <table style="width: 100%; table-layout: fixed;">
