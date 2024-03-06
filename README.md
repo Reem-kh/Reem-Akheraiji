@@ -45,7 +45,7 @@ In pursuing a Distinction in Business Analytics from the University of Denver, I
 - [Boulder Tea Brewers](./Boulder%20Tea%20Brewers%20.pdf) Maximizing profit, using all of the inventory, reducing budget via linear programming in Excel Solver. 
 - [How to Market The Next Big Hit Game](./How%20to%20Market%20The%20Next%20Big%20Hit%20Game.pdf) - University of Denver wide winning Business Analytics infographic.
 
-### Consulting Projects
+## Consulting Projects
 
 - **Cotopaxi:** Leading a team, I devised a strategy to boost Cotopaxi's market share among college students, positioning it against competitors for DU's inaugural Questival. Our approach combined personalized marketing and product design modifications targeted at the DU student demographic, aiming to augment Cotopaxi's visibility on campus and beyond.
 
